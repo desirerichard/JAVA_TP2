@@ -1,4 +1,4 @@
-//Afficher une chaîne de caractères saisies par l’utilisateur en minuscules puis en majuscules
+//Dans une chaîne de caractères, remplacer un caractère sur 2 par *
 import java.util.Scanner;
 
 public class ex2 {
